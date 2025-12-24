@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: Pavam I Patil
 🎓 Student at Presidency College, Bangalore<br>💼 Working as a Web Developer Intern at Ligand Software's<br>👯 Looking to collaborate on real-world projects and open-source contributions<br>🤝 Looking for help with backend optimization and system design<br>🌱 Currently learning DSA, and Python for AI/ML<br>💬 Ask me about React, Node.js, APIs, and project development<br>⚡ Fun fact: I enjoy debugging and building solutions more than scrolling social media
 
 
